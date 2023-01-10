@@ -1,5 +1,6 @@
 # CARLA_Custom_Parking_env
 This is a repo to illustrate all the virtual environment developed using CARLA along with RoadRunner.
+Algorithms developed as part of DRL are confidential to Lightyear.
 
 ## First testing of Lightyear-0 vehicle:
 As part of the thesis requirement, the training and the validation of the deep reinforcement learning framework needs to be executed on a Ligtear-0 vehicle, having the same set of geometrical constraints and vehicle dynamic definition. Since the parking manueveur was a low speed scenario, an extension for dedicatedly defining the dyamical behaviour of the vehicle was not used. Below a small snippet could be seen of the Lightyear vehicle moving in the virtual parking space.
